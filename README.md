@@ -13,7 +13,7 @@
 
 ## 💫 About Me
 
-I'm a **Full-Stack Software Engineer** with dual degrees from **San Jose State University** - a **Master's in Software Engineering** specializing in **Cloud & Mobile Computing** and a **Bachelor's in Software Engineering**. Currently at **Bloomberg**, I drive end-to-end feature development and optimize developer workflows for 3000+ internal developers while maintaining a focus on performance and scalability.
+I'm a **Full-Stack Software Engineer** with dual degrees from **San Jose State University** - a **Master's in Software Engineering** specializing in **Cloud & Mobile Computing** and a **Bachelor's in Software Engineering**. Currently at **Bloomberg**, I drive end-to-end feature development and optimize developer workflows for 3000+ internal developers while maintaining a focus on performance and scalability. I am seeking new opportunities to advance my skills in the field of software. I'm open to any domain and learning opportunities. Dedicated to expanding my experiences and taking initiative in the workplace.
 
 My engineering philosophy is guided by an **automation-first mindset**, commitment to **clean, maintainable code**, and a focus on **data-driven improvements** with quantifiable metrics.
 
