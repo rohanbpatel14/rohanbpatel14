@@ -26,9 +26,9 @@ My engineering philosophy is guided by an **automation-first mindset**, commitme
     <td width="33%" align="center">
       <h3>ApaceSystems</h3>
       <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
       <p>🛒 B2B E-commerce platform for elevator components with flexible product customization and robust API architecture.</p>
       <a href="https://github.com/ApaceSystems"><small>View Repository</small></a>
     </td>
