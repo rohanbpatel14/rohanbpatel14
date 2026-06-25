@@ -62,19 +62,6 @@ My engineering philosophy is guided by an **automation-first mindset**, commitme
 
 </div>
 
-## 🔧 Experience
-
-```mermaid
-graph LR
-    A[Bloomberg] --> B[Full Stack Software Developer - Internal Tools and Developer Experience]
-    C[SJSU Research] --> D[Graduate Research Assistant - Website Development POCs]
-    E[CloudData Technology] --> F[Software Development Engineer - Microservices and Cloud Infrastructure]
-
-    style A fill:#4285F4,stroke:#333,stroke-width:1px,color:white
-    style C fill:#34A853,stroke:#333,stroke-width:1px,color:white
-    style E fill:#FBBC05,stroke:#333,stroke-width:1px,color:white
-```
-
 ## 📚 Learning & Growth
 
 Currently focused on:
