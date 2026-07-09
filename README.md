@@ -82,15 +82,3 @@ I'm always open to discussing challenging technical problems, innovative solutio
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanbpatel98@gmail.com) 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohanbpatel14/)
-
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanbpatel14&rank_icon=github&show=prs_merged_percentage&theme=radical&hide=issues&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbpatel14&hide_progress=true)
-
-<div align="center">
-  
-  > "Code as if the next developer who will maintain your code is a psychopath who knows where you live."
-  
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rohanbpatel14.rohanbpatel14)
-  
-</div>
