@@ -61,8 +61,9 @@ My engineering philosophy is guided by an **automation-first mindset**, commitme
 ## 📚 Learning & Growth
 
 Currently focused on:
-- **System Design** patterns for distributed microservices
+- **Software Architecture Design** 
 - **GraphQL** federation and advanced schema design
+- **Agentic AI** workflow orchestration
 
 ## 🧠 Engineering Principles
 
